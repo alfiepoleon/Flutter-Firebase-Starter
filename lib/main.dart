@@ -52,7 +52,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'MojaTeam',
+      title: 'Firebase Flutter Starter',
       theme: customTheme,
       translations: TranslationStrings(),
       locale: Get.locale ?? Get.deviceLocale,
