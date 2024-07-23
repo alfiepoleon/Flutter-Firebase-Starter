@@ -50,26 +50,27 @@ Getting Started:
 
    - Ensure all the dependencies listed belowe are present in your pubspec.yaml:
 
-   ```
+   ```yaml
    dependencies:
-      flutter:
-         sdk: flutter
-      flutter_localizations:
-         sdk: flutter
-      cached_network_image: ^3.3.1
-      cupertino_icons: ^1.0.6
-      flutter_spinkit: ^5.2.1
-      firebase_analytics: ^11.2.0
-      firebase_auth: ^5.1.2
-      firebase_core: ^3.2.0
-      firebase_crashlytics: ^4.0.3
-      fluttertoast: ^8.2.6
-      get: ^5.0.0-release-candidate-6
-      google_fonts: ^6.2.1
-      google_sign_in: ^6.2.1
-      intl: any
-      loading_overlay: ^0.3.0
-      sign_in_button: ^3.2.0
+     flutter:
+       sdk: flutter
+     flutter_localizations:
+       sdk: flutter
+     cached_network_image: ^3.3.1
+     cupertino_icons: ^1.0.6
+     flutter_spinkit: ^5.2.1
+     firebase_analytics: ^11.2.0
+     firebase_auth: ^5.1.2
+     firebase_core: ^3.2.0
+     firebase_crashlytics: ^4.0.3
+     fluttertoast: ^8.2.6
+     get: ^5.0.0-release-candidate-6
+     google_fonts: ^6.2.1
+     google_sign_in: ^6.2.1
+     intl: any
+     loading_overlay: ^0.3.0
+     material_design_icons_flutter: ^7.0.7296
+     sign_in_button: ^3.2.0
    ```
 
 6. Install dependencies:

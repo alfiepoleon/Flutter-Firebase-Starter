@@ -16,7 +16,7 @@ class ProfilePage extends StatelessWidget {
         title: Text('profile'.tr, style: GoogleFonts.lato()),
         actions: <Widget>[
           PopupMenuButton<String>(
-            icon: const Icon(Icons.language),
+            icon: Icon(MdiIcons.translate),
             onSelected: (localeCode) {
               userController.changeLanguage(localeCode);
             },
