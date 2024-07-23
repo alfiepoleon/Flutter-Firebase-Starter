@@ -1,0 +1,15 @@
+Map<String, String> esTranslations = {
+  "continue_with_apple": "Continuar con Apple",
+  "continue_with_google": "Continuar con Google",
+  "error_apple_sign_in": "Se produjo un error al iniciar sesión con Apple.\nInténtalo de nuevo más tarde",
+  "error_google_sign_in": "Se produjo un error al iniciar sesión con Google.\nInténtalo de nuevo más tarde",
+  "sign_out": "Cerrar sesión",
+  "full_name": "Nombre completo",
+  "email": "Correo electrónico",
+  "profile": "Perfil",
+  "not_set": "No establecido",
+  'yes': 'Sí',
+  'no': 'No',
+  'change_language': 'Cambiar idioma',
+  'error_invalid_language_code': 'Código de idioma no válido',
+};
