@@ -5,6 +5,7 @@ export 'package:flutter_spinkit/flutter_spinkit.dart';
 // export 'package:get/get.dart';
 export 'package:get/utils.dart';
 export 'package:loading_overlay/loading_overlay.dart';
+export 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 export 'package:firebase_flutter_starter/utils/toast_manager.dart';
 export 'package:firebase_flutter_starter/utils/dialog_manager.dart';

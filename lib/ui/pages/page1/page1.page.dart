@@ -1,4 +1,4 @@
-import 'package:mojateam/utils/common_libs.dart';
+import 'package:firebase_flutter_starter/utils/common_libs.dart';
 
 class Page1 extends StatelessWidget {
   const Page1({super.key});

@@ -1,3 +1,4 @@
+import 'package:firebase_flutter_starter/ui/widgets/bottom_nav.dart';
 import 'package:flutter/material.dart';
 
 import '../page1/page1.page.dart';
