@@ -11,7 +11,7 @@ Widget bottomNav({
       currentIndex: currentIndex, // this will be set when a new tab is tapped
       items: [
         BottomNavigationBarItem(
-          icon: Icon(MdiIcons.cashMultiple),
+          icon: Icon(MdiIcons.home),
           label: 'Page 1',
         ),
         BottomNavigationBarItem(
