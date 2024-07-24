@@ -24,6 +24,7 @@ class UserController extends GetxController {
     Log.printLog("User changed: ${user?.uid}: ${user?.email}");
     if (user != null) {
       // User is signed in
+      Get.offAllNamed('/home');
     } else {
       // User is null, user not signed in
     }
